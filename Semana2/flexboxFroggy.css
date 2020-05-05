@@ -1,0 +1,83 @@
+Level 1
+Justify - content: flex-end;
+
+Level 2 
+Justify- content: centre;
+
+Level 3
+Justify-content: space-around ;
+
+Level 4 
+Justify-content: space-between;
+
+Level 5 
+Align-items: flex-end;
+
+Level 6 
+Justify-content: centre;
+Align-items: center;
+
+Level 7
+Justify-content: space-around;
+Align-items: flex-and; //done;
+
+Level 8 
+Flex-direction: row-reverse;
+
+Level 9
+Flex- direction: columns-reverse;
+
+Level 10 
+Flex-direction: row-reverse;
+Justify-content: flex-end;
+
+Level 11 
+Flex-direction:column;
+Justify-content:  flex-end;
+
+Level 12 
+Flex-direction: column-reverse 
+Justify-content: space-between;
+
+Level 13 
+Flex-direction: row-reserve;
+Justify-content: center;
+Align-item: flex-end;
+
+Level 14 
+Order 1;
+
+Level 15 
+order: -1
+
+Level 16  
+align-self: flex-end;
+
+Level 17 
+order:1;
+align-self: flex-end;
+
+Level 18 
+Flex-wrap: wrap; 
+
+Level 19 
+Flex-wrap:wrap; 
+flex-direction: column;
+
+Level 20 
+flex-flow:column wrap;
+
+Level 21 
+align-content: flex-start;
+
+Level 22 
+align-content: flex-end;
+
+Level 23 
+Flex-direction: column-reverse;
+Align-content:center;
+
+Level 24
+flex-flow: column-reverse wrap-reverse;
+justify-content: center;
+align-content: space-between;
