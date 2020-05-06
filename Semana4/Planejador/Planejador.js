@@ -1,11 +1,29 @@
-const meuInput = document.getElementById("meu-imput")
+const meuInput = document.getElementById("meu-input")
 
-const minhaLista = document.getElementsByTagName("ul")[0]
+const minhaLista = document.getElementByTagName("ul")[0]
 
-function  adicionarItem() {
-    let item = meuInput.value 
-    minhaLista.innerHTML += '<li>${item}<li>'
+console.log(meuInput)
+console.log(minhaLista)
+
+function adicionaItem() {
+    let Item = meuInput.Value
+
+    minhaLista.innerHTML += '<li>${item}</li>'
+
+    meuInput.value = ""
+
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
